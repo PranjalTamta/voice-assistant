@@ -1,2 +1,2 @@
-# voice-assistant
- 
+# Voice-assistant
+ A Voice Assistant built using HTML, CSS, and JavaScript is a web application that allows users to perform tasks or receive information by speaking voice commands. It uses modern web APIs, such as the Web Speech API, to capture and process voice inputs and respond interactively. This project showcases the integration of client-side web technologies to simulate basic AI-driven functionality in a browser.
